@@ -1,0 +1,9 @@
+18:18:44  Analysing frame 1
+18:18:44  START SCANNING
+18:18:44  create black&white image
+18:18:44  scan area 1
+18:18:45  1 objects found
+18:18:45  start fine scan
+18:18:45  fit remaining intermediate points
+18:18:45  process object 1 with 190 points
+18:18:45  interpolate data between points
